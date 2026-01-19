@@ -20,6 +20,14 @@ export const companies = [
         applyUrl: '#'
       },
       {
+        id: 'police-const',
+        title: 'Police Constable',
+        posted: '19/01/2026',
+        summary:
+          "Do you think you have what it takes to operate on the face of our airline, patrol the terminal at our daily flights, be responsible for catching threats and dealing with disruptive passengers, or perhaps man the scanners at security? Then this is the perfect career for you!",
+        applyUrl: '#'
+      },
+      {
         id: 'ground-handling-agent',
         title: 'Ground Handling Agent',
         posted: '19/01/2026',
