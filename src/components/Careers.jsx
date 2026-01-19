@@ -29,7 +29,7 @@ const Careers = () => {
     <section id="careers" className="bg-slate-950">
       <div className="relative">
         <img
-          src="https://picsum.photos/id/1067/2100/1200"
+          src="https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1hioc1ur21h3j1pmcvoifo61q7h1c.png"
           alt="Aviation background"
           className="w-full h-[360px] object-cover"
           crossOrigin="anonymous"
