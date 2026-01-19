@@ -64,7 +64,7 @@ const Companies = () => {
           <div className="lg:w-1/2 w-full">
             <div className="relative rounded-2xl overflow-hidden aspect-video group">
               <img 
-                src="https://picsum.photos/id/1067/2074/1170" 
+                src="https://cdn.discordapp.com/attachments/1457145450070278147/1458896226308329686/image.png?ex=696f263d&is=696dd4bd&hm=5c3ecc915e61b18ef25aa9ec04b233a7ec79d796045c8f2679b5f6ff04193ed3&" 
                 alt="Aether Airlines Tail" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 crossOrigin="anonymous"
