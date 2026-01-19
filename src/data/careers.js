@@ -3,22 +3,30 @@ export const companies = [
     id: 'ryanair',
     name: 'Ryanair',
     positions: [
-      { id: 'gha', title: 'Ground Handling Agent', posted: '11/03/2025', summary: 'Support safe and efficient turnarounds: ramp, baggage, and dispatch.', applyUrl: '#' },
-      { id: 'police-officer', title: 'Police Officer', posted: '11/03/2025', summary: 'Patrol terminals, respond to incidents, and ensure passenger safety.', applyUrl: '#' },
-      { id: 'cadet-pilot', title: 'Cadet Pilot', posted: '11/03/2025', summary: 'Learn operations and fly sectors as First Officer under supervision.', applyUrl: '#' }
-    ]
-  },
-  { id: 'aether-media', name: 'Aether Media', positions: [
-      { id: 'video-editor', title: 'Video Editor', posted: '10/03/2025', summary: 'Edit trailers, recaps, and social clips with brand consistency.', applyUrl: '#' },
-      { id: 'graphic-designer', title: 'Graphic Designer', posted: '10/03/2025', summary: 'Create campaign assets and thumbnails that drive engagement.', applyUrl: '#' }
-    ]
-  },
-  { id: 'aether-academy', name: 'Aether Academy', positions: [
-      { id: 'teacher', title: 'Teacher', posted: '09/03/2025', summary: 'Lead roleplay lessons and manage classroom experiences effectively.', applyUrl: '#' }
-    ]
-  },
-  { id: 'ofsted', name: 'Ofsted', positions: [
-      { id: 'inspector', title: 'Inspector', posted: '08/03/2025', summary: 'Audit standards across education groups and publish findings.', applyUrl: '#' }
+      {
+        id: 'flight-deck',
+        title: 'Flight Deck',
+        posted: '19/01/2026',
+        summary:
+          "Train with our experienced senior pilots and become a First Officer. Work closely with Cabin Crew to ensure a smooth and safe flight. Opportunities to progress to Senior First Officer, Captain, or qualify for our exclusive A320 fleet.",
+        applyUrl: '#'
+      },
+      {
+        id: 'cabin-crew',
+        title: 'Cabin Crew',
+        posted: '19/01/2026',
+        summary:
+          "Check in passengers, greet them at the plane, and serve onboard at cruise. Progress to Team Leader managing daily efficiency, or Director of Inflight.",
+        applyUrl: '#'
+      },
+      {
+        id: 'ground-handling-agent',
+        title: 'Ground Handling Agent',
+        posted: '19/01/2026',
+        summary:
+          "Load bags, refuel aircraft, manage catering, and drive airside vehicles. Marshal aircraft and ensure departures run smoothly. Grow into Team Leader or Director of Ground Operations.",
+        applyUrl: '#'
+      }
     ]
   }
 ];
