@@ -6,8 +6,8 @@ const Hero = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&w=2070&auto=format&fit=crop" 
-          alt="Modern Corporate Building" 
+          src="https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1hioc1ur21h3j1pmcvoifo61q7h1c.png" 
+          alt="Ryanair 737 - Polish livery" 
           className="w-full h-full object-cover"
         />
         {/* Dark Blue/Slate Overlay */}
